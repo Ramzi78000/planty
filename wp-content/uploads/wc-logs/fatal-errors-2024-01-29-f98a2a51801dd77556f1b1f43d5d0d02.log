@@ -1,0 +1,2 @@
+2024-01-29T13:57:14+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 1544192 bytes) dans C:\mamp\htdocs\planty1\wp-includes\rest-api\class-wp-rest-server.php à la ligne 556
+

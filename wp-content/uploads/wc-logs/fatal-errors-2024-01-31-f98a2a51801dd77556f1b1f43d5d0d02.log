@@ -1,0 +1,18 @@
+2024-01-31T12:27:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\mamp\htdocs\planty1\wp-content\plugins\wpforms-lite\src\Integrations\WPCode\RegisterLibrary.php à la ligne 12
+
+2024-01-31T12:31:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\mamp\htdocs\planty1\wp-includes\Requests\src\Transport\Curl.php à la ligne 510
+
+2024-01-31T12:34:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\mamp\htdocs\planty1\wp-includes\pomo\streams.php à la ligne 169
+
+2024-01-31T12:35:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\mamp\htdocs\planty1\wp-includes\functions.php à la ligne 4593
+
+2024-01-31T12:35:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\mamp\htdocs\planty1\wp-includes\functions.php à la ligne 4593
+
+2024-01-31T12:35:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\mamp\htdocs\planty1\wp-content\plugins\elementor\core\editor\data\globals\endpoints\typography.php à la ligne 74
+
+2024-01-31T12:35:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\mamp\htdocs\planty1\wp-content\plugins\elementor\core\editor\data\globals\endpoints\typography.php à la ligne 74
+
+2024-01-31T13:05:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\mamp\htdocs\planty1\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\ReviewsCommentsOverrides.php à la ligne 12
+
+2024-01-31T13:12:38+00:00 CRITICAL Out of memory (allocated 90177536) (tried to allocate 20480 bytes) dans C:\mamp\htdocs\planty1\wp-content\plugins\woocommerce\src\Blocks\BlockTypes\ProductQuery.php à la ligne 909
+
